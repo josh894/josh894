@@ -5,6 +5,7 @@ Hi 👋 My name is Josh
 
 * ✉️  You can contact me at [joshuaidavidson2001@gmail.com](mailto:joshuaidavidson2001@gmail.com)
 * 🚀  I'm currently working on [Simple Armory](http://github.com/kevinclement/SimpleArmory)
+* 🎓  Using private repositories for school projects.
 
 ### Skills
 
