@@ -4,8 +4,7 @@ Hi 👋 My name is Josh
 4th Year Computer Science Student
 
 * ✉️  You can contact me at [joshuaidavidson2001@gmail.com](mailto:joshuaidavidson2001@gmail.com)
-* 🚀  I'm currently working on [Simple Armory](http://github.com/kevinclement/SimpleArmory)
-* 🎓  Using private repositories for school projects.
+* 🚀  I'm currently working for [GBADs Informatics](https://animalhealthmetrics.org/)
 
 ### Skills
 
