@@ -5,6 +5,7 @@ Hi 👋 My name is Josh
 
 * ✉️  You can contact me at [joshuaidavidson2001@gmail.com](mailto:joshuaidavidson2001@gmail.com)
 * 🚀  I'm currently working for [GBADs Informatics](https://animalhealthmetrics.org/)
+* 👍   My [LinkedIn](https://www.linkedin.com/in/joshua-davidson-55236820b)
 
 ### Skills
 
