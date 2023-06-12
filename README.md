@@ -1,7 +1,7 @@
 Hi 👋 My name is Josh
 ---------------------------------
 
-4th Year Computer Science Student
+UoG Computer Science Alumni
 
 * ✉️  You can contact me at [joshuaidavidson2001@gmail.com](mailto:joshuaidavidson2001@gmail.com)
 * 🚀  I'm currently working for [GBADs Informatics](https://animalhealthmetrics.org/)
