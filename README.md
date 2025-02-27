@@ -4,7 +4,6 @@ Hi 👋 My name is Josh
 UoG Computer Science Alumni
 
 * ✉️  You can contact me at [joshuaidavidson2001@gmail.com](mailto:joshuaidavidson2001@gmail.com)
-* 🚀  I'm currently working for [GBADs Informatics](https://animalhealthmetrics.org/)
 * 👍   My [LinkedIn](https://www.linkedin.com/in/joshua-davidson-55236820b)
 
 ### Skills
@@ -18,5 +17,3 @@ UoG Computer Science Alumni
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
-
-<a href="http://www.github.com/josh894"><img src="https://github-readme-stats.vercel.app/api?username=josh894&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="josh894's GitHub stats" /></a>
